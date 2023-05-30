@@ -5,3 +5,12 @@ menu: "main"
 draft: false
 ---
 
+Email: ict@freedomfromtorture.org
+
+Extension number: 7770
+
+Phone number: 0207 697 7770
+
+Office hours: 9:00am - 5:30pm, Monday to Friday
+
+Office: DO:32
