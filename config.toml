@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://fftict.netlify.app"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "resources"
