@@ -14,7 +14,10 @@ __Here are our forms for starter and leaver requests.__
 
 You can find the starter form at this link: [Starter Form](https://forms.office.com/e/d46nEJMd5W)
 
-You can find the leaver form at this link: [Leaver Form]()
+You can find the leaver form at this link: [Leaver Form](https://forms.office.com/e/sjL8k0ZJ0Z)
 
 You can also find the starter form by scanning this QR code: 
 ![Starter form QR code](StarterFormQRCode.png)
+
+You can also find the leaver form by scanning this QR code: 
+![Leaver form QR code](LeaverFormQRCode.png)
