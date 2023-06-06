@@ -21,6 +21,7 @@ enableRobotsTXT = true
   author = ""
   favicon = ""
   site_logo = "logo.png"
+  body_classes = "sans-serif bg-near-white"
 
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
