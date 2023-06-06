@@ -16,4 +16,5 @@ You can find the starter form at this link: [Starter Form](https://forms.office.
 
 You can find the leaver form at this link: [Leaver Form]()
 
-You can also find the starter form by scanning this QR code: ![Starter form QR code](/Users/Aliyyah/Sites/my-pp2project-site/static/StarterFormQRCode.png)
+You can also find the starter form by scanning this QR code: 
+![Starter form QR code](StarterFormQRCode.png)
