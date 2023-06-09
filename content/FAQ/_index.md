@@ -39,4 +39,11 @@ Take a look at the answers below to some frequently asked questions.
 - However, if you would like to access your files from the office computer/work laptop on the file explorer you will need to complete some initial setup. 
 	- Here are some video instructions, please click the following link: [Initial File Setup Videos](https://freedomfromtorture-my.sharepoint.com/:f:/g/personal/sziqbal_freedomfromtorture_org/EuAF-5Cz6OxOu0RagoyKzLAB8sAdYf4_qHf11ktapHbnaw?e=S69Y71) 
 	- Here is a written guide: [Initial File Setup Written Instructions](https://freedomfromtorture-my.sharepoint.com/:w:/g/personal/auddin_freedomfromtorture_org/EW1ryexYmoNLmhI138zDSEsBxxSaWNOiPGDq20gTnM7PkQ?e=I9QrvZ) 
+
+
+*5. Daylight is not working when I access it from the SharePoint Intranet at home. What should I do?*
+- You must be inside the remote system for daylight to work
+	- First login to remote
+	- Go to Sharepoint online
+	- Click on the daylight app
  
